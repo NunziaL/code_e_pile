@@ -25,4 +25,5 @@ Nel programma principale, testare le due classi con operazioni di base per assic
 
 #### 4. Implementazione della funzione `valuta_polacca`
 Implementare una funzione fuori dal `main` basandosi sullo pseudocodice visto a lezione dell'algoritmo `double valuta_polacca(post: coda)`. Testare la funzione nel `main`.
+
 ![Screenshot 2024-11-28 200238](https://github.com/user-attachments/assets/133e92ad-5811-43c3-b2b7-e274f77d24e4)
